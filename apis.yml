@@ -74,13 +74,13 @@ apis:
         url: https://docs.cradle.bio/api/
       - type: GettingStarted
         url: https://docs.cradle.bio/docs/getting-started/overview/
-      - type: SDK
+      - type: SDKs
         url: https://docs.cradle.bio/sdk/cradle/sdk/
       - type: PythonSDKPackage
         url: https://pypi.org/project/cradle-sdk/
       - type: CustomPredictorTemplate
         url: https://github.com/cradlebio/custom-predictor-template
-      - type: SignIn
+      - type: Login
         url: https://app.cradle.bio
     description: >-
       The Cradle Platform API is an enterprise REST API for programmatic
@@ -114,7 +114,7 @@ common:
     url: https://docs.cradle.bio
   - type: APIReference
     url: https://docs.cradle.bio/api/
-  - type: SDK
+  - type: SDKs
     url: https://docs.cradle.bio/sdk/cradle/sdk/
   - type: Blog
     url: https://www.cradle.bio/blog
