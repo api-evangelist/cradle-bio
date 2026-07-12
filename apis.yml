@@ -104,6 +104,8 @@ apis:
       and the spec is rendered as ReDoc-based reference rather than
       published as a downloadable OpenAPI file.
 common:
+  - type: DomainSecurity
+    url: security/cradle-bio-domain-security.yml
   - type: Website
     url: https://www.cradle.bio
   - type: Platform
