@@ -2,13 +2,6 @@
   "repo": "cradle-bio",
   "feeds": [
     {
-      "source": "https://www.cradle.bio/blog",
-      "feed_url": "https://api.feedifyrss.com/cradle-jobs/ashbyjobs/feed.xml",
-      "title": "",
-      "saved": 2,
-      "method": "discovered"
-    },
-    {
       "source": "https://api.feedifyrss.com/cradle-jobs/ashbyjobs/feed.xml",
       "feed_url": "https://api.feedifyrss.com/cradle-jobs/ashbyjobs/feed.xml",
       "title": "",
@@ -24,5 +17,5 @@
     }
   ],
   "post_count": 8,
-  "fetched": "2026-06-27T12:03:07Z"
+  "fetched": "2026-07-11T11:50:51Z"
 }
