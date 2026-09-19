@@ -98,7 +98,7 @@ apis:
     name: Cradle Platform API
     tags:
       - Protein Engineering
-      - Workspaces
+      - Workspace
       - Project
       - Rounds
       - Data Management
