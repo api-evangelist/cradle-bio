@@ -1,0 +1,29 @@
+# Front Door AI Index — cradle-bio — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: cradle-bio
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.cradle.bio
+  final_host: www.cradle.bio
+  ownership: own
+  owner: cradle-bio
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 18
+  host_score: 18
+  density: 17.19
+  words: 1047
+  tiers:
+    agentic: 2
+    core: 16
+    model: 0
+  ambiguous: 2
+  top_terms:
+    AI: 11
+    ML: 5
+    automation: 2
+    embedding: 1
+    fine-tune: 1
