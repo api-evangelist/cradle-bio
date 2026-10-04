@@ -56,7 +56,7 @@ tags:
   - Generative Biology
   - Generative AI
   - Foundation Models
-  - Machine-Learning
+  - Machine Learning
   - Biotechnology
   - Biopharma
   - Drug Discovery
@@ -89,6 +89,7 @@ tags_raw:
   - Wet Lab
   - Life Sciences
   - Custom Predictors
+  - Machine-Learning
 url: https://raw.githubusercontent.com/api-evangelist/cradle-bio/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
