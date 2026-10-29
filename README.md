@@ -1,4 +1,4 @@
-# cradle-bio
+# Cradle
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cradle — AI-powered generative protein engineering platform (Amsterdam / Zurich) with REST API and Python SDK for antibody, enzyme, vaccine, and peptide design.
+Cradle is a Dutch–Swiss biotechnology software company founded in 2021 with headquarters in Amsterdam and an office in Zurich, building an AI-powered protein engineering platform for industrial biotech and biopharma R&D teams. The platform combines proprietary generative AI models — trained on billions of natural protein sequences and on data produced in Cradle's own Amsterdam wet lab — with a web application and REST API/Python SDK so that scientists can design, simulate, and co-optimize amino-acid sequence variants across multiple measurable properties such as activity, binding affinity, stability, expression, and developability. Core platform capabilities include AI candidate generation, multi-property co-optimization, virtual plate design, experimental data management with full versioning and audit trails, task orchestration (analyze data, diversify, engineer, select, search, train) across modalities including antibodies/mAbs, enzymes, vaccines, therapeutic peptides, and food ingredients, plus a Custom Predictors framework letting customers plug in their own ML models. Cradle is sold as enterprise SaaS to R&D organizations — disclosed customers and partners include Johnson & Johnson Janssen, Bayer, Novozymes/Novonesis, and Twist Bioscience, with the platform serving six of the top 25 global pharma companies and over 50 active R&D programs. The company has raised approximately $115M to date across a seed round (Index Ventures, 2022), a $24M Series A (Index Ventures, 2023), and a $73M Series B (IVP, 2024). Co-founders are Stef van Grieken (CEO), Jelle Prins, Elise de Reus, Eli Bixby, and Harmen van Rossum.
+
+**Areas:** Protein Engineering · Generative Biology · Generative AI · Foundation Models · Machine Learning · Biotechnology · Biopharma · Drug Discovery · Antibody Discovery · Enzyme Engineering · Vaccines · Therapeutic Peptides
+
+## Cradle on APIs.io
+
+Everything profiled for Cradle is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cradle-bio/](https://apis.io/providers/cradle-bio/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Cradle Platform API](https://apis.io/apis/cradle-bio/cradle-platform-api/) — The Cradle Platform API is an enterprise REST API for programmatic access to Cradle's AI-driven protein engineering platform. It is organized under…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cradle Bio Domain Security](https://apis.io/security/cradle-bio/cradle-bio-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.cradle.bio)
+- [Documentation](https://docs.cradle.bio)
+- [API reference](https://docs.cradle.bio/api/)
+- [Blog](https://www.cradle.bio/blog)
+- [Security](https://www.cradle.bio/security)
+- [GitHub](https://github.com/cradlebio)
+
+## API Evangelist rating
+
+**Kin Score 10.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 6.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.4** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cradle-bio/](https://apis.io/providers/cradle-bio/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cradle: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cradle-bio/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
